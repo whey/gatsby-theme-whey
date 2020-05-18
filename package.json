@@ -1,0 +1,183 @@
+{
+  "_args": [
+    [
+      "@whey/gatsby-theme-whey@0.10.62",
+      "/Users/whey/Docs/GitHub/gatsby-sites/gatsby-starter-theme-whey"
+    ]
+  ],
+  "_development": true,
+  "_from": "@whey/gatsby-theme-whey@0.10.62",
+  "_id": "@whey/gatsby-theme-whey@0.10.62",
+  "_inBundle": false,
+  "_integrity": "sha512-VvlfEoiM/dPbJpieI3gJysRzXSZOnK9ONtHSpc1ZBpDEH/Xg6E8hYT9zacu8c26EzSxxBfky3wyPWjj+f5DW6Q==",
+  "_location": "/@whey/gatsby-theme-whey",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@whey/gatsby-theme-whey@0.10.62",
+    "name": "@whey/gatsby-theme-whey",
+    "escapedName": "@whey%2fgatsby-theme-whey",
+    "scope": "@whey",
+    "rawSpec": "0.10.62",
+    "saveSpec": null,
+    "fetchSpec": "0.10.62"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@whey/gatsby-theme-whey/-/gatsby-theme-whey-0.10.62.tgz",
+  "_spec": "0.10.62",
+  "_where": "/Users/whey/Docs/GitHub/gatsby-sites/gatsby-starter-theme-whey",
+  "author": {
+    "name": "Whey Team",
+    "email": "a@whey.io"
+  },
+  "bugs": {
+    "url": "https://github.com/whey/gatsby-theme-whey/issues"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.0.2",
+    "@babel/plugin-transform-modules-umd": "^7.2.0",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-react": "^7.6.3",
+    "@babel/preset-typescript": "^7.6.0",
+    "@babel/standalone": "^7.6.4",
+    "@hot-loader/react-dom": "^16.9.0+4.12.11",
+    "@rstacruz/gatsby-remark-component": "^2.0.0",
+    "@stackblitz/sdk": "^1.3.0",
+    "@types/classnames": "^2.2.9",
+    "@types/codemirror": "latest",
+    "@types/git-url-parse": "^9.0.0",
+    "@types/lodash-es": "^4.17.3",
+    "@types/parse-github-url": "^1.0.0",
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
+    "@types/react-github-button": "^0.1.0",
+    "@types/react-helmet": "^5.0.10",
+    "@types/react-slick": "^0.23.4",
+    "@types/rehype-react": "^4.0.0",
+    "@types/shallowequal": "^1.1.1",
+    "antd": "^4.0.0",
+    "babel-preset-gatsby": "^0.3.0",
+    "classnames": "^2.2.6",
+    "codemirror": "^5.49.2",
+    "codesandbox": "^2.1.10",
+    "docsearch.js": "^2.6.3",
+    "gatsby": "^2.15.16",
+    "gatsby-image": "^2.2.19",
+    "gatsby-plugin-antd": "^2.0.2",
+    "gatsby-plugin-catch-links": "^2.1.12",
+    "gatsby-plugin-cname": "^1.0.0",
+    "gatsby-plugin-copy-files": "^1.0.3",
+    "gatsby-plugin-google-analytics": "^2.1.16",
+    "gatsby-plugin-i18n": "^1.0.1",
+    "gatsby-plugin-layout": "^1.1.11",
+    "gatsby-plugin-less": "^3.0.6",
+    "gatsby-plugin-manifest": "^2.2.16",
+    "gatsby-plugin-meta-redirect": "^1.1.1",
+    "gatsby-plugin-nprogress": "^2.1.12",
+    "gatsby-plugin-offline": "^3.0.22",
+    "gatsby-plugin-page-creator": "^2.1.25",
+    "gatsby-plugin-react-helmet": "^3.1.7",
+    "gatsby-plugin-react-svg": "^3.0.0",
+    "gatsby-plugin-remove-serviceworker": "^1.0.0",
+    "gatsby-plugin-remove-trailing-slashes": "^2.1.9",
+    "gatsby-plugin-sitemap": "^2.2.21",
+    "gatsby-plugin-typescript": "^2.1.8",
+    "gatsby-redirect-from": "^0.2.1",
+    "gatsby-remark-autolink-headers": "^2.1.13",
+    "gatsby-remark-external-links": "^0.0.4",
+    "gatsby-remark-prismjs": "^3.3.29",
+    "gatsby-remark-reading-time": "^1.0.1",
+    "gatsby-source-filesystem": "^2.1.22",
+    "gatsby-source-github": "^0.0.2",
+    "gatsby-transformer-remark": "2.7.3",
+    "git-url-parse": "^11.1.2",
+    "i18next": "^19.0.0",
+    "indent-string": "^4.0.0",
+    "insert-css": "^2.0.0",
+    "less": "^3.10.3",
+    "lodash": "^4.17.15",
+    "lodash-es": "^4.17.15",
+    "matchmedia-polyfill": "^0.3.2",
+    "mkdirp": "^1.0.3",
+    "normalize.css": "^8.0.1",
+    "parse-github-url": "^1.0.2",
+    "prettier": "^2.0.1",
+    "pretty-quick": "^2.0.0",
+    "prism-themes": "^1.2.0",
+    "prismjs": "^1.17.1",
+    "ptz-i18n": "^1.0.0",
+    "rc-drawer": "^3.0.2",
+    "rc-footer": "^0.6.1",
+    "react": "^16.9.0",
+    "react-codemirror2": "^7.0.0",
+    "react-dom": "^16.9.0",
+    "react-github-button": "^0.1.11",
+    "react-helmet": "^6.0.0",
+    "react-i18next": "^11.0.0",
+    "react-slick": "^0.25.2",
+    "react-split-pane": "^0.1.87",
+    "react-test-renderer": "^16.9.0",
+    "react-use": "^14.0.0",
+    "rehype-react": "^5.0.0",
+    "release-it": "^13.0.0",
+    "shallowequal": "^1.1.0",
+    "slash": "^3.0.0",
+    "slick-carousel": "^1.8.1",
+    "typescript": "^3.7.4",
+    "video-react": "^0.14.1"
+  },
+  "description": "Ant Visualization solution home page",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.1.1",
+    "@testing-library/react": "^10.0.1",
+    "@types/jest": "^25.1.1",
+    "babel-jest": "^25.1.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^25.1.0",
+    "react-test-renderer": "^16.9.0",
+    "ts-jest": "^25.2.0"
+  },
+  "homepage": "https://whey.io",
+  "keywords": [
+    "gatsby",
+    "whey",
+    "whey-docs"
+  ],
+  "license": "MIT",
+  "name": "@whey/gatsby-theme-whey",
+  "publishConfig": {
+    "access": "public"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": ":sparkles: Release ${version}"
+    },
+    "github": {
+      "release": true
+    },
+    "hooks": {
+      "before:init": [
+        "npm test",
+        "npm run compile:components"
+      ]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whey/gatsby-theme-whey.git"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "compile:components": "rm -rf .tmp lib && ../../node_modules/.bin/tsc --outDir .tmp --noEmit false -d && npm run copy:components",
+    "copy:components": "mkdir -p lib && cp -R .tmp/@whey/gatsby-theme-whey/site/components lib && cp site/components/*.less ./lib/components && cp site/common.json ./lib && cp -R site/images ./lib",
+    "develop": "gatsby develop",
+    "release": "release-it --ci",
+    "serve": "gatsby serve",
+    "start": "npm run develop",
+    "test": "jest"
+  },
+  "version": "0.10.62"
+}
